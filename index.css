@@ -1,0 +1,84 @@
+#titlebar {
+	background-color: #FF0000;
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:10px;
+	box-shadow:0 5px 5px 0 #888888;
+	float:none;
+}
+#titlebar #heading {
+	background-color: #FF0000;
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#titlebar #heading #logo {
+	height:auto;
+	width: 50px;
+	margin-left: 15px;
+	float:left;
+}
+
+#titlebar #heading #menu {
+	background-color: #FF0000;
+	height: 50px;
+	width: 400px;
+	margin-right: 15px;
+	float:right;
+}
+#body {
+	height: 800px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #FFFFFF;
+}
+#body #bodytop {
+	background-color: #FFFFFF;
+	height: 250px;
+	width: 970px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+#body #bodytop #topleft {
+	background-color: #FFFFFF;
+	float: left;
+	height: 250px;
+	width: auto;
+}
+#body #bodytop #topright {
+	background-color: #CCCCCC;
+	float: right;
+	height: 250px;
+	width: 755px;
+	margin-left: 15px;
+	background-repeat: no-repeat;
+}
+#body #left {
+	background-color: #999999;
+	height: 450px;
+	width: 200px;
+	margin-top: 50px;
+	margin-left: 15px;
+	float: left;
+	border-radius:20px;
+}
+#body #middle {
+	height: 250px;
+	width: 750px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+#body #left #stp {
+	height: 180px;
+	width: 200px;
+}
+#body #left #sdc {
+	height: 250px;
+	width: 200px;
+	margin-top: 10px;
+}

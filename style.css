@@ -1,0 +1,161 @@
+#titlebar {
+	background-color: #FF0000;
+	height: 50px;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:10px;
+	box-shadow:0 5px 5px 0 #888888;
+	float:none;
+}
+#titlebar #heading {
+	background-color: #FF0000;
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#titlebar #heading #logo {
+	height:auto;
+	width: 50px;
+	margin-left: 15px;
+	float:left;
+}
+
+#titlebar #heading #menu {
+	background-color: #FF0000;
+	height: 50px;
+	width: 400px;
+	margin-right: 15px;
+	float:right;
+}
+#body {
+	background-color: #FFFFFF;
+	height: 650px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	float: inherit;
+	margin-top: 10px;
+	
+	
+
+}
+#body #bodyheading1 {
+	height: 80px;
+	width:auto;
+	background-color:#00CCFF;
+	margin-left: 15px;
+	border-bottom-width:thin;
+	margin-right: 15px;
+}
+#body #body1 {
+	height: 80px;
+	width: auto;
+	border-bottom:ridge;
+	border-bottom-color:#FF0000;
+	border-bottom-width:thin; 
+	
+}
+#body #body2 {
+	background-color: #00CC33;
+	height: 300px;
+	width: 970px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+}
+#body #body2 #pic {
+	background-color: #3366CC;
+	float: left;
+	height: 300px;
+	width: 250px;
+}
+#body #body2 #content {
+	background-color: #CCFF33;
+	float: right;
+	height: 300px;
+	width: 650px;
+}
+#body #left {
+	float: left;
+	height: 400px;
+	width: 700px;
+	margin-top: 10px;
+	margin-left: 15px;
+	background-color: #CCCCCC;
+	opacity:0.6;
+	border-radius:25px;
+
+}
+#body #right {
+	height: 600px;
+	width: 260px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 15px;
+}
+#body #right #rtop {
+	height: 120px;
+	width: 200px;
+	background-image: url(images/untitled.bmp.jpg);
+	background-repeat: no-repeat;
+	margin-left: 30px;
+}
+#body #right #rdown {
+	height: 480px;
+	width: 260px;
+	background-color: #FF0000;
+}
+#body #bmiddle {
+	float: left;
+	height: 210px;
+	width: 700px;
+	margin-left: 15px;
+	background-color: #FFFFFF;
+	margin-top: 10px;
+}
+#body #bmiddle #mright {
+	float: left;
+	height: 105px;
+	width: 150px;
+}
+#body #bmiddle #mleft {
+	float: right;
+	height: 105px;
+	width: 500px;
+	margin-left: 10px;
+}
+#body #bmiddle #mdown {
+	float: left;
+	height: 105px;
+	width: 150px;
+}
+#body #bmiddle #mdleft {
+	float: right;
+	height: 105px;
+	width: 500px;
+}
+#bottomc {
+	background-color: #FFFFFF;
+	height: 50px;
+	width: auto;
+	border-radius:10px;
+}
+#topbody {
+	height: 50px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top:15px;
+	border-radius:25px;
+	margin-bottom: 25px;
+}
+#topbody #name {
+	background-color:#CCCCCC;
+	float: left;
+	height: 50px;
+	width: 100px;
+	border-radius:25px;
+	margin-left: 15px;
+}
